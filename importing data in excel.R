@@ -1,0 +1,12 @@
+getwd()
+print(getwd())
+setwd
+print(getwd())
+bfast<-read.csv("cereal.csv",header = TRUE,sep = "," )
+head(bfast)
+data <- read.csv("records.csv")
+head(data)
+print(is.data.frame(data))
+print(NCOL(data))
+print(nrow(data))
+max()
